@@ -10,4 +10,6 @@ package gitpi42014;
  */
 public class Italo {
     
+    String helloMyFriend = "Vai comesar o talqui xou";
+    
 }
