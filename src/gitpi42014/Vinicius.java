@@ -4,12 +4,9 @@
  */
 package gitpi42014;
 
-/**
- *
- * @author a13030576
- */
-public class Italo {
-    
-    String helloMyFriend = "Vai comesar o talqui xou";
+
+public class Vinicius {
+   
+  //Why so serious?
     
 }

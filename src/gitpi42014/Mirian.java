@@ -6,10 +6,8 @@ package gitpi42014;
 
 /**
  *
- * @author a13030576
+ * @author a06014024
  */
-public class Italo {
-    
-    String helloMyFriend = "Vai comesar o talqui xou";
+public class Mirian {
     
 }
